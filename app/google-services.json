@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "403471017461",
+    "project_id": "mcproject4thsemester",
+    "storage_bucket": "mcproject4thsemester.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403471017461:android:548ce00bf26f16701b2cbc",
+        "android_client_info": {
+          "package_name": "com.example.healthcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403471017461-7qqgqepv0eudpg9id9n60e148n9cmtsv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.healthcare",
+            "certificate_hash": "54070ef891d994c78eafd975205d84e6d07eee64"
+          }
+        },
+        {
+          "client_id": "403471017461-913prp94c7f48pbfp82rfksd9mjsc2ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiAtCh36M6hvOUVqzriyo5llRdVFl3lVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403471017461-913prp94c7f48pbfp82rfksd9mjsc2ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
